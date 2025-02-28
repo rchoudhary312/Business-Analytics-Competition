@@ -41,8 +41,9 @@ Demographics: Demographic details of producers/farmers associated with various c
 Economics: Transactional data (e.g., labor, farm sales).
 
 For comprehensive data descriptions, please refer to:   
-https://quickstats.nass.usda.gov/param_define
-https://quickstats.nass.usda.gov/src/glossary.pdf
 
+https://quickstats.nass.usda.gov/param_define                               
+
+https://quickstats.nass.usda.gov/src/glossary.pdf
 
 Additionally, TGA has provided a confidential map of their current suppliers (hidden due to NDA)
