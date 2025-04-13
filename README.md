@@ -1,7 +1,7 @@
 # Business-Analytics-Competition
 MSBA-6131 Business Analytics: Fall 2024 Live Case
 
-In Collaboration with The Good Acre (TGA)
+In Collaboration with Minnesota's largest non-profit food hub 
 1. Problem Definition
 
 During the live case kickoff event, Non Profit Food Hub Organisation will present a detailed problem statement. Broadly, TGA is evaluating five potential locations for new warehouses to support the aggregation of agricultural products from local farmers. The objective of this project is to determine which location(s) would serve as the best candidate(s) for this expansion.
