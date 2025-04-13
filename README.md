@@ -4,7 +4,7 @@ MSBA-6131 Business Analytics: Fall 2024 Live Case
 In Collaboration with The Good Acre (TGA)
 1. Problem Definition
 
-During the live case kickoff event, The Good Acre (TGA) will present a detailed problem statement. Broadly, TGA is evaluating five potential locations for new warehouses to support the aggregation of agricultural products from local farmers. The objective of this project is to determine which location(s) would serve as the best candidate(s) for this expansion.
+During the live case kickoff event, Non Profit Food Hub Organisation will present a detailed problem statement. Broadly, TGA is evaluating five potential locations for new warehouses to support the aggregation of agricultural products from local farmers. The objective of this project is to determine which location(s) would serve as the best candidate(s) for this expansion.
 The five proposed locations are:
 Duluth (St. Louis County)
 Rochester (Olmsted County)
